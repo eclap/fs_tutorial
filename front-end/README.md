@@ -64,6 +64,6 @@ TO FOLLOW
 
 - Implement delete confirmation modal.
 - Due to time constraint, I was not able to write tests, but it is something I will usually implement right after I'm able to submit, if not during the development.
-- I wanted to include status and a title/description search in filter but it seems like in DynamoDB, only "scan" can use "contain()" and not "query" which I used. Will need to investigate this more specifically indexing.
+- I wanted to include status and a title/description search in filter but it seems like in DynamoDB, only "scan" can use "contain()" and not "query" which I used. Will need to investigate this more, specifically indexing.
 
 

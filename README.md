@@ -24,4 +24,8 @@ Note that it is ideal to setup the "back-end" first as "front-end" requires it t
 
 ## Production Setup
 
-TO FOLLOW
+Please refer to individual folders for the deployment.
+
+Note that the current deployment procedure is very manual due to time constraint.
+
+I will be looking to implement automate this and apply CI/CD.
