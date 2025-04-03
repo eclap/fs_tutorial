@@ -1,0 +1,10 @@
+services:
+  nodejs:
+    build:
+      context: .
+      dockerfile: ./dockerfiles/node.dockerfile
+    volumes:
+      - ./:/app
+      - /app/node_modules
+    ports:
+      - '5173:5173'
